@@ -248,6 +248,6 @@ sudo apt install gcc
 
 ## 👨‍💻 Author
 
-**Keshav**
+**Ajinkya Killedar**
 
 Linux System Programming Project
